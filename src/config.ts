@@ -31,10 +31,10 @@ export const collectionImageURL =
   process.env.NEXT_PUBLIC_COLLECTION_IMAGE_URL || "https://images.pexels.com/photos/2832432/pexels-photo-2832432.png";
 
 export const collectionTitle =
-  process.env.NEXT_PUBLIC_COLLECTION_TITLE || "Collection Name";
+  process.env.NEXT_PUBLIC_COLLECTION_TITLE || "Studihub NFTs";
 
 export const collectionDescription =
-  process.env.NEXT_PUBLIC_COLLECTION_DESCRIPTION || "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.";
+  process.env.NEXT_PUBLIC_COLLECTION_DESCRIPTION || "Learn to Earn with Studihub";
 
 export const tokenType =
   process.env.NEXT_PUBLIC_TOKEN_TYPE || "Token";
